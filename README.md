@@ -1,4 +1,4 @@
-# Exercicio-Cars
+# Exercicios-Cars
 Projeto da matéria Técnicas de Programação I - 2º Semestre Ciencia da Computação na Instituiçaõ Barão de Máua. 
 O intuito do projeto é começar o básico do JavaScript testando funções, variaveis, criação e manipulaçaõ de objetos.
 
