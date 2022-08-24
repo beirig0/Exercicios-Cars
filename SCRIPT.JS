@@ -114,3 +114,5 @@ if (cars[7] == true) {
 } else {
     console.log("O carro ", cars[7], "Pode ser alugado")
 };
+// VERIFICAR SE UM DOS CARROS TIVER ISSUBCRIBE COM TRUE ---> PODE ALUGAR
+// VERIFICAR SE UM DOS CARROS TIVER ISSUBCRIBE COM FALSE ---> NÃO PODE ALUGAR
