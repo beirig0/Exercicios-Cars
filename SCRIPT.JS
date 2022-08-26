@@ -1,13 +1,5 @@
-// CRIAR UMA LISTA DE 10 CARROS
-// NA LISTA UM CARRO DEVE SER REPETIDO
-// VERIFICAR SE TIVER CARRO REPETIDO ---> DELETAR UM DOS CARROS
-// VERIFICAR SE UM DOS CARROS TIVER ISSUBCRIBE COM TRUE ---> PODE ALUGAR
-// VERIFICAR SE UM DOS CARROS TIVER ISSUBCRIBE COM FALSE ---> NÃO PODE ALUGAR
 
 
-
-
-// LISTA COM 10 CARROS E UM REPETIDO
 let cars = ([
     {
         Marca: 'Jeep',
@@ -99,7 +91,7 @@ if (JSON.stringify(cars[4]) === JSON.stringify(cars[6])) {
 } else {
     console.log("Não tem nehum carro repetido");
 }
-// VERIFICAR SE TIVER CARRO REPETIDO ---> DELETAR UM DOS CARROSp
+
 
 if (cars[8] == true) {
     console.log("O carro ", cars[8], "pode ser alugado")
@@ -114,5 +106,3 @@ if (cars[7] == true) {
 } else {
     console.log("O carro ", cars[7], "Pode ser alugado")
 };
-// VERIFICAR SE UM DOS CARROS TIVER ISSUBCRIBE COM TRUE ---> PODE ALUGAR
-// VERIFICAR SE UM DOS CARROS TIVER ISSUBCRIBE COM FALSE ---> NÃO PODE ALUGAR
